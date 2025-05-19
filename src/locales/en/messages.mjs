@@ -1,1 +1,1 @@
-/*eslint-disable*/export const messages=JSON.parse("{\"Login\":[\"Login\"],\"Password\":[\"Password\"],\"Hello, World!\":[\"Hello, World!\"]}");
+/*eslint-disable*/export const messages=JSON.parse("{\"Hello, World!\":[\"Hello, World!\"],\"Login\":[\"Login\"],\"Password\":[\"Password\"],\"Fetch Data\":[\"Fetch Data\"],\"Data fetched successfully!\":[\"Data fetched successfully!\"]}");

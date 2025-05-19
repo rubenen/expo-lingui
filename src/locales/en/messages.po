@@ -14,16 +14,26 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
-#: src/Login.jsx:7
+#: src/screen.jsx:12
+msgid "Hello, World!"
+msgstr "Hello, World!"
+
+#. js-lingui-explicit-id
+#: src/login.jsx:9
 msgid "Login"
 msgstr "Login"
 
 #. js-lingui-explicit-id
-#: src/Login.jsx:8
+#: src/login.jsx:10
 msgid "Password"
 msgstr "Password"
 
 #. js-lingui-explicit-id
-#: src/App.jsx:41
-msgid "Hello, World!"
-msgstr "Hello, World!"
+#: src/login.jsx:12
+msgid "Fetch Data"
+msgstr "Fetch Data"
+
+#. js-lingui-explicit-id
+#: src/fetchData.js:9
+msgid "Data fetched successfully!"
+msgstr "Data fetched successfully!"
