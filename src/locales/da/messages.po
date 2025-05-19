@@ -14,22 +14,27 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+#: src/login.jsx:27
+msgid "{count, plural, =0 {You have no messages} one {You have one new message} other {You have # new messages}}"
+msgstr "{count, plural, =0 {Du har ingen beskeder} one {Du har en ny besked} other {Du har # nye beskeder}}"
+
+#. js-lingui-explicit-id
 #: src/screen.jsx:12
 msgid "Hello, World!"
 msgstr "Hej, Verden!"
 
 #. js-lingui-explicit-id
-#: src/login.jsx:9
+#: src/login.jsx:10
 msgid "Login"
 msgstr "Log på"
 
 #. js-lingui-explicit-id
-#: src/login.jsx:10
+#: src/login.jsx:11
 msgid "Password"
 msgstr "Adgangskode"
 
 #. js-lingui-explicit-id
-#: src/login.jsx:12
+#: src/login.jsx:13
 msgid "Fetch Data"
 msgstr "Hent data"
 

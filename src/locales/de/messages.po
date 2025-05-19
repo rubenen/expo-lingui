@@ -14,22 +14,27 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. js-lingui-explicit-id
+#: src/login.jsx:27
+msgid "{count, plural, =0 {You have no messages} one {You have one new message} other {You have # new messages}}"
+msgstr "{count, plural, =0 {Du hast keine Nachrichten} one {Du hast eine neue Nachricht} other {Du hast # neue Nachrichten}}"
+
+#. js-lingui-explicit-id
 #: src/screen.jsx:12
 msgid "Hello, World!"
 msgstr "Hallo, Welt!"
 
 #. js-lingui-explicit-id
-#: src/login.jsx:9
+#: src/login.jsx:10
 msgid "Login"
 msgstr "Anmelden"
 
 #. js-lingui-explicit-id
-#: src/login.jsx:10
+#: src/login.jsx:11
 msgid "Password"
 msgstr "Passwort"
 
 #. js-lingui-explicit-id
-#: src/login.jsx:12
+#: src/login.jsx:13
 msgid "Fetch Data"
 msgstr "Daten abrufen"
 
