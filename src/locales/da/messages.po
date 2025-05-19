@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2025-05-19 14:22+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: da\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. js-lingui-explicit-id
+#: src/Login.jsx:7
+msgid "Login"
+msgstr "Log på"
+
+#. js-lingui-explicit-id
+#: src/Login.jsx:8
+msgid "Password"
+msgstr "Adgangskode"
+
+#. js-lingui-explicit-id
+#: src/App.jsx:41
+msgid "Hello, World!"
+msgstr "Hej, Verden!"

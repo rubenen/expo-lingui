@@ -1,0 +1,1 @@
+/*eslint-disable*/export const messages=JSON.parse("{\"Login\":[\"Anmelden\"],\"Password\":[\"Passwort\"],\"Hello, World!\":[\"Hallo, Welt!\"]}");
